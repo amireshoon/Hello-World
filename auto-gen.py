@@ -3,7 +3,7 @@
 """ This script generates lot of things automatically """
 
 import os
-import sys
+import sys, getopt
 import json
 import platform
 from pathlib import Path
